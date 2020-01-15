@@ -5,6 +5,10 @@
   font-weight: 700;
 }
 
+.brand--size-xl {
+  font-size: 30px;
+}
+
 .brand__point {
   border-radius: 50%;
   display: inline-block;
@@ -13,10 +17,26 @@
   width: 3px;
 }
 
+.brand__point--size-xl {
+  width: 7px;
+  height: 7px;
+  margin: 0 4px 4px 4px;
+}
+
+.brand__point--size-m {
+  width: 6px;
+  height: 6px;
+  margin: 0 8px 2px 4px;
+}
+
+.adress-wrap {
+  margin-left: 18px;
+}
+
 .dot-wrap {
   color: #212122;
   font-weight: 400;
-  min-width: 15px;
+  min-width: 17px;
   padding: 0;
   margin: 0 3px 3px 0;
   text-align: right;
